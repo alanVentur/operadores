@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Operaciones basicas</string>
+    <string name="titulo">Operaciones matematicas</string>
+    <string name="PedirNumero">Introcuce un numero</string>
+</resources>
